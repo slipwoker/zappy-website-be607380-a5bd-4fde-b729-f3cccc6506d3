@@ -56,7 +56,86 @@ Information about WCAG compliance and accessibility features.
 
 ## Products
 
-_No products are currently configured._
+**Total active products: 13**
+
+### קרואטיה מונדיאל 2026 - חולצת בית
+https://example.com/product/krvatyh-mvndyal-2026-chvltst-byt-qiy03v
+- Price: 60.00 ILS
+- Availability: In stock
+- Description: חולצת כדורגל רשמית בסגנון נבחרת קרואטיה למונדיאל 2026. בד איכותי, הדפסה עמידה.
+
+### אורוגוואי מונדיאל 2026 - חולצת בית
+https://example.com/product/avrvgvvay-mvndyal-2026-chvltst-byt-vsdkxv
+- Price: 60.00 ILS
+- Availability: In stock
+- Description: חולצת כדורגל רשמית בסגנון נבחרת אורוגוואי למונדיאל 2026. בד איכותי, הדפסה עמידה.
+- Image: https://example.com/assets/product-ai-fit-1782134387353-2tqqae.webp
+
+### בלגיה מונדיאל 2026 - חולצת בית
+https://example.com/product/blgyh-mvndyal-2026-chvltst-byt-9cjhs7
+- Price: 60.00 ILS
+- Availability: In stock
+- Description: חולצת כדורגל רשמית בסגנון נבחרת בלגיה למונדיאל 2026. בד איכותי, הדפסה עמידה.
+
+### הולנד מונדיאל 2026 - חולצת בית
+https://example.com/product/hvlnd-mvndyal-2026-chvltst-byt-v3hw49
+- Price: 60.00 ILS
+- Availability: In stock
+- Description: חולצת כדורגל רשמית בסגנון נבחרת הולנד למונדיאל 2026. בד איכותי, הדפסה עמידה.
+
+### איטליה מונדיאל 2026 - חולצת בית
+https://example.com/product/aytlyh-mvndyal-2026-chvltst-byt-vb7bek
+- Price: 60.00 ILS
+- Availability: In stock
+- Description: חולצת כדורגל רשמית בסגנון נבחרת איטליה למונדיאל 2026. בד איכותי, הדפסה עמידה.
+
+### פורטוגל מונדיאל 2026 - חולצת בית
+https://example.com/product/pvrtvgl-mvndyal-2026-chvltst-byt-kx81wk
+- Price: 60.00 ILS
+- Availability: In stock
+- Description: חולצת כדורגל רשמית בסגנון נבחרת פורטוגל למונדיאל 2026. בד איכותי, הדפסה עמידה.
+
+### ארגנטינה מונדיאל 2026 - חולצת בית
+https://example.com/product/argntynh-mvndyal-2026-chvltst-byt-ie1d0v
+- Price: 60.00 ILS
+- Availability: In stock
+- Description: חולצת כדורגל רשמית בסגנון נבחרת ארגנטינה למונדיאל 2026. בד איכותי, הדפסה עמידה.
+
+### ספרד מונדיאל 2026 - חולצת בית
+https://example.com/product/sprd-mvndyal-2026-chvltst-byt-lac9xz
+- Price: 60.00 ILS
+- Availability: In stock
+- Description: חולצת כדורגל רשמית בסגנון נבחרת ספרד למונדיאל 2026. בד איכותי, הדפסה עמידה.
+
+### גרמניה מונדיאל 2026 - חולצת בית
+https://example.com/product/grmnyh-mvndyal-2026-chvltst-byt-kr923k
+- Price: 60.00 ILS
+- Availability: In stock
+- Description: חולצת כדורגל רשמית בסגנון נבחרת גרמניה למונדיאל 2026. בד איכותי, הדפסה עמידה.
+
+### אנגליה מונדיאל 2026 - חולצת בית
+https://example.com/product/anglyh-mvndyal-2026-chvltst-byt-sn498k
+- Price: 60.00 ILS
+- Availability: In stock
+- Description: חולצת כדורגל רשמית בסגנון נבחרת אנגליה למונדיאל 2026. בד איכותי, הדפסה עמידה.
+
+### צרפת מונדיאל 2026 - חולצת בית
+https://example.com/product/tsrpt-mvndyal-2026-chvltst-byt-9a0d57
+- Price: 60.00 ILS
+- Availability: In stock
+- Description: חולצת כדורגל רשמית בסגנון נבחרת צרפת למונדיאל 2026. בד איכותי, הדפסה עמידה.
+
+### ברזיל מונדיאל 2026 - חולצת בית
+https://example.com/product/brzyl-mvndyal-2026-chvltst-byt-j7y2xu
+- Price: 60.00 ILS
+- Availability: In stock
+- Description: חולצת כדורגל רשמית בסגנון נבחרת ברזיל למונדיאל 2026. בד איכותי, הדפסה עמידה.
+
+### ארגנטינה חוץ
+https://example.com/product/argntynh-chvts-du2mk2
+- Price: 60.00 ILS
+- Availability: In stock
+- Image: https://example.com/assets/product-1782133700416-v6imk.webp
 
 ---
 

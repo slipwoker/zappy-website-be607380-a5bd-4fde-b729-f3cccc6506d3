@@ -4,6 +4,151 @@
     <title>BM JERSEY</title>
     <link>https://example.com</link>
     <description>Product feed for BM JERSEY</description>
-    <lastBuildDate>Mon, 22 Jun 2026 13:04:56 GMT</lastBuildDate>
+    <lastBuildDate>Mon, 22 Jun 2026 13:29:23 GMT</lastBuildDate>
+    <item>
+      <g:id>f995eca0-75a0-49e8-b340-e57b32ce28a2</g:id>
+      <g:title>קרואטיה מונדיאל 2026 - חולצת בית</g:title>
+      <g:description>חולצת כדורגל רשמית בסגנון נבחרת קרואטיה למונדיאל 2026. בד איכותי, הדפסה עמידה.</g:description>
+      <g:link>https://example.com/product/krvatyh-mvndyal-2026-chvltst-byt-qiy03v</g:link>
+      <g:availability>in_stock</g:availability>
+      <g:price>60.00 ILS</g:price>
+      <g:condition>new</g:condition>
+      <g:brand>BM JERSEY</g:brand>
+      <g:identifier_exists>no</g:identifier_exists>
+    </item>
+    <item>
+      <g:id>b0cbfc0e-c173-45e4-85bc-c29bfa76bddd</g:id>
+      <g:title>אורוגוואי מונדיאל 2026 - חולצת בית</g:title>
+      <g:description>חולצת כדורגל רשמית בסגנון נבחרת אורוגוואי למונדיאל 2026. בד איכותי, הדפסה עמידה.</g:description>
+      <g:link>https://example.com/product/avrvgvvay-mvndyal-2026-chvltst-byt-vsdkxv</g:link>
+      <g:image_link>https://example.com/assets/product-ai-fit-1782134387353-2tqqae.webp</g:image_link>
+      <g:availability>in_stock</g:availability>
+      <g:price>60.00 ILS</g:price>
+      <g:condition>new</g:condition>
+      <g:brand>BM JERSEY</g:brand>
+      <g:identifier_exists>no</g:identifier_exists>
+    </item>
+    <item>
+      <g:id>708f4639-c6e3-41d7-80cd-68fb86773dd6</g:id>
+      <g:title>בלגיה מונדיאל 2026 - חולצת בית</g:title>
+      <g:description>חולצת כדורגל רשמית בסגנון נבחרת בלגיה למונדיאל 2026. בד איכותי, הדפסה עמידה.</g:description>
+      <g:link>https://example.com/product/blgyh-mvndyal-2026-chvltst-byt-9cjhs7</g:link>
+      <g:availability>in_stock</g:availability>
+      <g:price>60.00 ILS</g:price>
+      <g:condition>new</g:condition>
+      <g:brand>BM JERSEY</g:brand>
+      <g:identifier_exists>no</g:identifier_exists>
+    </item>
+    <item>
+      <g:id>d2421350-a9f6-4f08-83cd-95ae88c192f6</g:id>
+      <g:title>הולנד מונדיאל 2026 - חולצת בית</g:title>
+      <g:description>חולצת כדורגל רשמית בסגנון נבחרת הולנד למונדיאל 2026. בד איכותי, הדפסה עמידה.</g:description>
+      <g:link>https://example.com/product/hvlnd-mvndyal-2026-chvltst-byt-v3hw49</g:link>
+      <g:availability>in_stock</g:availability>
+      <g:price>60.00 ILS</g:price>
+      <g:condition>new</g:condition>
+      <g:brand>BM JERSEY</g:brand>
+      <g:identifier_exists>no</g:identifier_exists>
+    </item>
+    <item>
+      <g:id>26d38bd9-8e98-4679-9dd7-11cbe7c2a966</g:id>
+      <g:title>איטליה מונדיאל 2026 - חולצת בית</g:title>
+      <g:description>חולצת כדורגל רשמית בסגנון נבחרת איטליה למונדיאל 2026. בד איכותי, הדפסה עמידה.</g:description>
+      <g:link>https://example.com/product/aytlyh-mvndyal-2026-chvltst-byt-vb7bek</g:link>
+      <g:availability>in_stock</g:availability>
+      <g:price>60.00 ILS</g:price>
+      <g:condition>new</g:condition>
+      <g:brand>BM JERSEY</g:brand>
+      <g:identifier_exists>no</g:identifier_exists>
+    </item>
+    <item>
+      <g:id>443f4ff2-c648-442b-8a32-569b683f9f3c</g:id>
+      <g:title>פורטוגל מונדיאל 2026 - חולצת בית</g:title>
+      <g:description>חולצת כדורגל רשמית בסגנון נבחרת פורטוגל למונדיאל 2026. בד איכותי, הדפסה עמידה.</g:description>
+      <g:link>https://example.com/product/pvrtvgl-mvndyal-2026-chvltst-byt-kx81wk</g:link>
+      <g:availability>in_stock</g:availability>
+      <g:price>60.00 ILS</g:price>
+      <g:condition>new</g:condition>
+      <g:brand>BM JERSEY</g:brand>
+      <g:identifier_exists>no</g:identifier_exists>
+    </item>
+    <item>
+      <g:id>5a20b183-a0d9-466c-8cac-416b304d321b</g:id>
+      <g:title>ארגנטינה מונדיאל 2026 - חולצת בית</g:title>
+      <g:description>חולצת כדורגל רשמית בסגנון נבחרת ארגנטינה למונדיאל 2026. בד איכותי, הדפסה עמידה.</g:description>
+      <g:link>https://example.com/product/argntynh-mvndyal-2026-chvltst-byt-ie1d0v</g:link>
+      <g:availability>in_stock</g:availability>
+      <g:price>60.00 ILS</g:price>
+      <g:condition>new</g:condition>
+      <g:brand>BM JERSEY</g:brand>
+      <g:identifier_exists>no</g:identifier_exists>
+    </item>
+    <item>
+      <g:id>b7bea695-ae0d-4706-8a09-f37ae37aacba</g:id>
+      <g:title>ספרד מונדיאל 2026 - חולצת בית</g:title>
+      <g:description>חולצת כדורגל רשמית בסגנון נבחרת ספרד למונדיאל 2026. בד איכותי, הדפסה עמידה.</g:description>
+      <g:link>https://example.com/product/sprd-mvndyal-2026-chvltst-byt-lac9xz</g:link>
+      <g:availability>in_stock</g:availability>
+      <g:price>60.00 ILS</g:price>
+      <g:condition>new</g:condition>
+      <g:brand>BM JERSEY</g:brand>
+      <g:identifier_exists>no</g:identifier_exists>
+    </item>
+    <item>
+      <g:id>b20a3e36-8f33-4e72-b20f-2865332deac6</g:id>
+      <g:title>גרמניה מונדיאל 2026 - חולצת בית</g:title>
+      <g:description>חולצת כדורגל רשמית בסגנון נבחרת גרמניה למונדיאל 2026. בד איכותי, הדפסה עמידה.</g:description>
+      <g:link>https://example.com/product/grmnyh-mvndyal-2026-chvltst-byt-kr923k</g:link>
+      <g:availability>in_stock</g:availability>
+      <g:price>60.00 ILS</g:price>
+      <g:condition>new</g:condition>
+      <g:brand>BM JERSEY</g:brand>
+      <g:identifier_exists>no</g:identifier_exists>
+    </item>
+    <item>
+      <g:id>4c60b33d-1abf-4226-966e-50dd220c40f4</g:id>
+      <g:title>אנגליה מונדיאל 2026 - חולצת בית</g:title>
+      <g:description>חולצת כדורגל רשמית בסגנון נבחרת אנגליה למונדיאל 2026. בד איכותי, הדפסה עמידה.</g:description>
+      <g:link>https://example.com/product/anglyh-mvndyal-2026-chvltst-byt-sn498k</g:link>
+      <g:availability>in_stock</g:availability>
+      <g:price>60.00 ILS</g:price>
+      <g:condition>new</g:condition>
+      <g:brand>BM JERSEY</g:brand>
+      <g:identifier_exists>no</g:identifier_exists>
+    </item>
+    <item>
+      <g:id>d68b3689-0e3b-4595-be63-e06ae3d3c089</g:id>
+      <g:title>צרפת מונדיאל 2026 - חולצת בית</g:title>
+      <g:description>חולצת כדורגל רשמית בסגנון נבחרת צרפת למונדיאל 2026. בד איכותי, הדפסה עמידה.</g:description>
+      <g:link>https://example.com/product/tsrpt-mvndyal-2026-chvltst-byt-9a0d57</g:link>
+      <g:availability>in_stock</g:availability>
+      <g:price>60.00 ILS</g:price>
+      <g:condition>new</g:condition>
+      <g:brand>BM JERSEY</g:brand>
+      <g:identifier_exists>no</g:identifier_exists>
+    </item>
+    <item>
+      <g:id>4d6b33db-e986-46f4-9cc6-931442abde0b</g:id>
+      <g:title>ברזיל מונדיאל 2026 - חולצת בית</g:title>
+      <g:description>חולצת כדורגל רשמית בסגנון נבחרת ברזיל למונדיאל 2026. בד איכותי, הדפסה עמידה.</g:description>
+      <g:link>https://example.com/product/brzyl-mvndyal-2026-chvltst-byt-j7y2xu</g:link>
+      <g:availability>in_stock</g:availability>
+      <g:price>60.00 ILS</g:price>
+      <g:condition>new</g:condition>
+      <g:brand>BM JERSEY</g:brand>
+      <g:identifier_exists>no</g:identifier_exists>
+    </item>
+    <item>
+      <g:id>2e473a2c-7099-4441-b5c9-5a1913a29bd7</g:id>
+      <g:title>ארגנטינה חוץ</g:title>
+      <g:description>ארגנטינה חוץ</g:description>
+      <g:link>https://example.com/product/argntynh-chvts-du2mk2</g:link>
+      <g:image_link>https://example.com/assets/product-1782133700416-v6imk.webp</g:image_link>
+      <g:availability>in_stock</g:availability>
+      <g:price>60.00 ILS</g:price>
+      <g:condition>new</g:condition>
+      <g:brand>BM JERSEY</g:brand>
+      <g:identifier_exists>no</g:identifier_exists>
+    </item>
   </channel>
 </rss>
