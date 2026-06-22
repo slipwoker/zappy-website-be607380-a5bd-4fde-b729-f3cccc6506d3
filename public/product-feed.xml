@@ -4,12 +4,13 @@
     <title>BM JERSEY</title>
     <link>https://example.com</link>
     <description>Product feed for BM JERSEY</description>
-    <lastBuildDate>Mon, 22 Jun 2026 13:29:23 GMT</lastBuildDate>
+    <lastBuildDate>Mon, 22 Jun 2026 13:33:22 GMT</lastBuildDate>
     <item>
       <g:id>f995eca0-75a0-49e8-b340-e57b32ce28a2</g:id>
-      <g:title>קרואטיה מונדיאל 2026 - חולצת בית</g:title>
+      <g:title>גרמניה מונדיאל 2026 - חולצת בית</g:title>
       <g:description>חולצת כדורגל רשמית בסגנון נבחרת קרואטיה למונדיאל 2026. בד איכותי, הדפסה עמידה.</g:description>
-      <g:link>https://example.com/product/krvatyh-mvndyal-2026-chvltst-byt-qiy03v</g:link>
+      <g:link>https://example.com/product/grmnyh-mvndyal-2026-chvltst-byt-n4usut</g:link>
+      <g:image_link>https://example.com/assets/product-ai-fit-1782135027351-4q9c1.webp</g:image_link>
       <g:availability>in_stock</g:availability>
       <g:price>60.00 ILS</g:price>
       <g:condition>new</g:condition>
@@ -43,7 +44,7 @@
       <g:id>d2421350-a9f6-4f08-83cd-95ae88c192f6</g:id>
       <g:title>הולנד מונדיאל 2026 - חולצת בית</g:title>
       <g:description>חולצת כדורגל רשמית בסגנון נבחרת הולנד למונדיאל 2026. בד איכותי, הדפסה עמידה.</g:description>
-      <g:link>https://example.com/product/hvlnd-mvndyal-2026-chvltst-byt-v3hw49</g:link>
+      <g:link>https://example.com/product/hvlnd-mvndyal-2026-chvltst-byt-x06vln</g:link>
       <g:availability>in_stock</g:availability>
       <g:price>60.00 ILS</g:price>
       <g:condition>new</g:condition>

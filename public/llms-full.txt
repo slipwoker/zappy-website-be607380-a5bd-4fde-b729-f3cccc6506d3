@@ -3686,8 +3686,8 @@ Description: BM JERSEY - תודה שפניתם אלינו | BM JERSEY
 
 ## Product Catalog
 
-### קרואטיה מונדיאל 2026 - חולצת בית
-URL: https://example.com/product/krvatyh-mvndyal-2026-chvltst-byt-qiy03v
+### גרמניה מונדיאל 2026 - חולצת בית
+URL: https://example.com/product/grmnyh-mvndyal-2026-chvltst-byt-n4usut
 Price: 60.00 ILS
 Availability: In stock
 
@@ -3714,7 +3714,7 @@ Availability: In stock
 ---
 
 ### הולנד מונדיאל 2026 - חולצת בית
-URL: https://example.com/product/hvlnd-mvndyal-2026-chvltst-byt-v3hw49
+URL: https://example.com/product/hvlnd-mvndyal-2026-chvltst-byt-x06vln
 Price: 60.00 ILS
 Availability: In stock
 

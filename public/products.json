@@ -1,16 +1,16 @@
 {
   "@context": "https://schema.org",
-  "generated_at": "2026-06-22T13:29:23.704Z",
+  "generated_at": "2026-06-22T13:33:22.427Z",
   "base_url": "https://example.com",
   "currency": "ILS",
   "count": 13,
   "products": [
     {
       "id": "f995eca0-75a0-49e8-b340-e57b32ce28a2",
-      "slug": "krvatyh-mvndyal-2026-chvltst-byt-qiy03v",
-      "name": "קרואטיה מונדיאל 2026 - חולצת בית",
+      "slug": "grmnyh-mvndyal-2026-chvltst-byt-n4usut",
+      "name": "גרמניה מונדיאל 2026 - חולצת בית",
       "name_translations": {},
-      "description": "חולצת כדורגל רשמית בסגנון נבחרת קרואטיה למונדיאל 2026. בד איכותי, הדפסה עמידה.",
+      "description": "<p>חולצת כדורגל רשמית בסגנון נבחרת קרואטיה למונדיאל 2026. בד איכותי, הדפסה עמידה.</p>",
       "short_description": null,
       "sku": null,
       "brand": null,
@@ -18,12 +18,14 @@
       "base_price": 60,
       "sale_price": null,
       "currency": "ILS",
-      "images": [],
+      "images": [
+        "https://example.com/assets/product-ai-fit-1782135027351-4q9c1.webp"
+      ],
       "in_stock": true,
       "stock_status": "in_stock",
-      "url": "https://example.com/product/krvatyh-mvndyal-2026-chvltst-byt-qiy03v",
+      "url": "https://example.com/product/grmnyh-mvndyal-2026-chvltst-byt-n4usut",
       "categories": [],
-      "updated_at": "2026-06-22T13:13:11.608Z"
+      "updated_at": "2026-06-22T13:30:33.503Z"
     },
     {
       "id": "b0cbfc0e-c173-45e4-85bc-c29bfa76bddd",
@@ -69,10 +71,10 @@
     },
     {
       "id": "d2421350-a9f6-4f08-83cd-95ae88c192f6",
-      "slug": "hvlnd-mvndyal-2026-chvltst-byt-v3hw49",
+      "slug": "hvlnd-mvndyal-2026-chvltst-byt-x06vln",
       "name": "הולנד מונדיאל 2026 - חולצת בית",
       "name_translations": {},
-      "description": "חולצת כדורגל רשמית בסגנון נבחרת הולנד למונדיאל 2026. בד איכותי, הדפסה עמידה.",
+      "description": "<p>חולצת כדורגל רשמית בסגנון נבחרת הולנד למונדיאל 2026. בד איכותי, הדפסה עמידה.</p>",
       "short_description": null,
       "sku": null,
       "brand": null,
@@ -83,9 +85,9 @@
       "images": [],
       "in_stock": true,
       "stock_status": "in_stock",
-      "url": "https://example.com/product/hvlnd-mvndyal-2026-chvltst-byt-v3hw49",
+      "url": "https://example.com/product/hvlnd-mvndyal-2026-chvltst-byt-x06vln",
       "categories": [],
-      "updated_at": "2026-06-22T13:13:11.355Z"
+      "updated_at": "2026-06-22T13:31:46.650Z"
     },
     {
       "id": "26d38bd9-8e98-4679-9dd7-11cbe7c2a966",

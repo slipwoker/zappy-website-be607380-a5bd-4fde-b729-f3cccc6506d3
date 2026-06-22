@@ -58,11 +58,12 @@ Information about WCAG compliance and accessibility features.
 
 **Total active products: 13**
 
-### קרואטיה מונדיאל 2026 - חולצת בית
-https://example.com/product/krvatyh-mvndyal-2026-chvltst-byt-qiy03v
+### גרמניה מונדיאל 2026 - חולצת בית
+https://example.com/product/grmnyh-mvndyal-2026-chvltst-byt-n4usut
 - Price: 60.00 ILS
 - Availability: In stock
 - Description: חולצת כדורגל רשמית בסגנון נבחרת קרואטיה למונדיאל 2026. בד איכותי, הדפסה עמידה.
+- Image: https://example.com/assets/product-ai-fit-1782135027351-4q9c1.webp
 
 ### אורוגוואי מונדיאל 2026 - חולצת בית
 https://example.com/product/avrvgvvay-mvndyal-2026-chvltst-byt-vsdkxv
@@ -78,7 +79,7 @@ https://example.com/product/blgyh-mvndyal-2026-chvltst-byt-9cjhs7
 - Description: חולצת כדורגל רשמית בסגנון נבחרת בלגיה למונדיאל 2026. בד איכותי, הדפסה עמידה.
 
 ### הולנד מונדיאל 2026 - חולצת בית
-https://example.com/product/hvlnd-mvndyal-2026-chvltst-byt-v3hw49
+https://example.com/product/hvlnd-mvndyal-2026-chvltst-byt-x06vln
 - Price: 60.00 ILS
 - Availability: In stock
 - Description: חולצת כדורגל רשמית בסגנון נבחרת הולנד למונדיאל 2026. בד איכותי, הדפסה עמידה.
