@@ -1,0 +1,85 @@
+# BM JERSEY — Generative Engine Optimization Map
+
+> BM JERSEY is an online football jersey store offering a wide range of official and retro football shirts. The store features jerseys from the FIFA World Cup, English Premier League, Spanish La Liga, and German Bundesliga, priced at 60₪ each. A dedicated Retro category offers vintage-style jerseys at 70₪. A unique 'Mystery Box' category is available at 60₪, adding an exciting surprise element for football fans. The brand aims to replicate the look and feel of well-known international sports apparel websites.
+
+---
+
+## Pages
+
+### בית
+https://bm-jersey-be607380.zappy5.app
+חנות חולצות הכדורגל BM JERSEY מציעה חולצות רשמיות ורטרו מליגות העל ומהמונדיאל ב-60₪ בלבד. גלו את קולקציית הרטרו ב-70₪ או נסו את מזלכם עם קופסת המסתורין המפתיעה. הצטרפו עכשיו!
+
+### מדריך הקולקציות
+https://bm-jersey-be607380.zappy5.app/collections-guide
+מדריך הקולקציות של BM JERSEY פורש בפניכם עולם של חולצות כדורגל: מפרמייר ליג ועד לה ליגה, רטרו אייקוניות וקופסאות מסתורין מפתות. בחרו את הסגנון שלכם והתחילו לאסוף עוד היום!
+
+### הסיפור שלנו
+https://bm-jersey-be607380.zappy5.app/brand-story
+הסיפור של BM JERSEY מתחיל באהבה אמיתית למשחק. אנחנו מביאים לכם חולצות כדורגל מונדיאל, ליגה אנגלית זולות ורטרו נוסטלגיות במחירים שווים לכל כיס. בואו להיות חלק מהמסע שלנו!
+
+### צור קשר
+https://bm-jersey-be607380.zappy5.app/contact
+יש לכם שאלה על חולצות ליגה אנגלית זולות, רטרו או קופסת מסתורין? צרו קשר עם BM JERSEY ונשמח להחזיר לכם עם שירות אישי ומהיר. אנחנו מחכים לשמוע מכם, בואו נדבר!
+
+### Products
+https://bm-jersey-be607380.zappy5.app/products
+המוצרים שלנו - BM JERSEY
+
+### Product Detail
+https://bm-jersey-be607380.zappy5.app/product/:slug
+פרטי המוצר - BM JERSEY
+
+### Category
+https://bm-jersey-be607380.zappy5.app/category/:slug
+מוצרים - BM JERSEY
+
+### תודה שפניתם אלינו | BM JERSEY
+https://bm-jersey-be607380.zappy5.app/thank-you
+BM JERSEY - תודה שפניתם אלינו | BM JERSEY
+
+## Legal & Policy
+
+### Privacy Policy
+https://bm-jersey-be607380.zappy5.app/privacy
+Information about how user data is collected, stored, and protected.
+
+### Terms & Conditions
+https://bm-jersey-be607380.zappy5.app/terms
+Legal terms describing service usage, rights, and policies.
+
+### Accessibility Statement
+https://bm-jersey-be607380.zappy5.app/accessibility
+Information about WCAG compliance and accessibility features.
+
+---
+
+## Products
+
+_No products are currently configured._
+
+---
+
+# Business Context (for LLM understanding)
+
+## About BM JERSEY
+BM JERSEY is an online football jersey store offering a wide range of official and retro football shirts. The store features jerseys from the FIFA World Cup, English Premier League, Spanish La Liga, and German Bundesliga, priced at 60₪ each. A dedicated Retro category offers vintage-style jerseys at 70₪. A unique 'Mystery Box' category is available at 60₪, adding an exciting surprise element for football fans. The brand aims to replicate the look and feel of well-known international sports apparel websites.
+
+## Target Audience
+- אוהדי כדורגל, אוהדי מונדיאל, אוהדי ליגות אירופאיות
+- אוהדי כדורגל
+- אוהדי מונדיאל
+- אוהדי ליגות אירופאיות
+
+## Industry
+Sports Apparel E-commerce
+
+---
+
+# Machine-readable feeds
+
+- Sitemap (XML): https://bm-jersey-be607380.zappy5.app/sitemap.xml
+- Robots: https://bm-jersey-be607380.zappy5.app/robots.txt
+- Flattened page text (for LLMs): https://bm-jersey-be607380.zappy5.app/llms-full.txt
+- Products (JSON): https://bm-jersey-be607380.zappy5.app/products.json
+- Products (Google Merchant RSS): https://bm-jersey-be607380.zappy5.app/product-feed.xml
