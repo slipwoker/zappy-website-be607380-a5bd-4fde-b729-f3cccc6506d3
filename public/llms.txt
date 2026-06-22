@@ -7,49 +7,49 @@
 ## Pages
 
 ### בית
-https://bm-jersey-be607380.zappy5.app
+https://example.com
 חנות חולצות הכדורגל BM JERSEY מציעה חולצות רשמיות ורטרו מליגות העל ומהמונדיאל ב-60₪ בלבד. גלו את קולקציית הרטרו ב-70₪ או נסו את מזלכם עם קופסת המסתורין המפתיעה. הצטרפו עכשיו!
 
 ### מדריך הקולקציות
-https://bm-jersey-be607380.zappy5.app/collections-guide
+https://example.com/collections-guide
 מדריך הקולקציות של BM JERSEY פורש בפניכם עולם של חולצות כדורגל: מפרמייר ליג ועד לה ליגה, רטרו אייקוניות וקופסאות מסתורין מפתות. בחרו את הסגנון שלכם והתחילו לאסוף עוד היום!
 
 ### הסיפור שלנו
-https://bm-jersey-be607380.zappy5.app/brand-story
+https://example.com/brand-story
 הסיפור של BM JERSEY מתחיל באהבה אמיתית למשחק. אנחנו מביאים לכם חולצות כדורגל מונדיאל, ליגה אנגלית זולות ורטרו נוסטלגיות במחירים שווים לכל כיס. בואו להיות חלק מהמסע שלנו!
 
 ### צור קשר
-https://bm-jersey-be607380.zappy5.app/contact
+https://example.com/contact
 יש לכם שאלה על חולצות ליגה אנגלית זולות, רטרו או קופסת מסתורין? צרו קשר עם BM JERSEY ונשמח להחזיר לכם עם שירות אישי ומהיר. אנחנו מחכים לשמוע מכם, בואו נדבר!
 
 ### Products
-https://bm-jersey-be607380.zappy5.app/products
+https://example.com/products
 המוצרים שלנו - BM JERSEY
 
 ### Product Detail
-https://bm-jersey-be607380.zappy5.app/product/:slug
+https://example.com/product/:slug
 פרטי המוצר - BM JERSEY
 
 ### Category
-https://bm-jersey-be607380.zappy5.app/category/:slug
+https://example.com/category/:slug
 מוצרים - BM JERSEY
 
 ### תודה שפניתם אלינו | BM JERSEY
-https://bm-jersey-be607380.zappy5.app/thank-you
+https://example.com/thank-you
 BM JERSEY - תודה שפניתם אלינו | BM JERSEY
 
 ## Legal & Policy
 
 ### Privacy Policy
-https://bm-jersey-be607380.zappy5.app/privacy
+https://example.com/privacy
 Information about how user data is collected, stored, and protected.
 
 ### Terms & Conditions
-https://bm-jersey-be607380.zappy5.app/terms
+https://example.com/terms
 Legal terms describing service usage, rights, and policies.
 
 ### Accessibility Statement
-https://bm-jersey-be607380.zappy5.app/accessibility
+https://example.com/accessibility
 Information about WCAG compliance and accessibility features.
 
 ---
@@ -78,8 +78,8 @@ Sports Apparel E-commerce
 
 # Machine-readable feeds
 
-- Sitemap (XML): https://bm-jersey-be607380.zappy5.app/sitemap.xml
-- Robots: https://bm-jersey-be607380.zappy5.app/robots.txt
-- Flattened page text (for LLMs): https://bm-jersey-be607380.zappy5.app/llms-full.txt
-- Products (JSON): https://bm-jersey-be607380.zappy5.app/products.json
-- Products (Google Merchant RSS): https://bm-jersey-be607380.zappy5.app/product-feed.xml
+- Sitemap (XML): https://example.com/sitemap.xml
+- Robots: https://example.com/robots.txt
+- Flattened page text (for LLMs): https://example.com/llms-full.txt
+- Products (JSON): https://example.com/products.json
+- Products (Google Merchant RSS): https://example.com/product-feed.xml
